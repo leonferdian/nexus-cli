@@ -1,4 +1,4 @@
 services:
   nexus-cli:
     build: .
-    command: ["start", "--headless", "--node-id", "<your-node-id>"]
+    command: ["start", "--headless", "--node-id", "36479892"]
